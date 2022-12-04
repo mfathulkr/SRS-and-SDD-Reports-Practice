@@ -1,0 +1,2 @@
+
+During my internship at Secure Computing company, the subject I worked on during my internship was learning to prepare SRS and SDD reports. I believe that this work brought me one step closer to professional life.
